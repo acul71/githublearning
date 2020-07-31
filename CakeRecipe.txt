@@ -1,1 +1,4 @@
 1) Add Milk
+2) Add Flower
+3) Add Chocolate
+4) Mix
