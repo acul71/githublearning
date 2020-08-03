@@ -5,7 +5,8 @@ Cake Recipe:
 2) Add Flower
 3) Add Chocolate
 4) Mix
-5) Add adulcorant
+5) Put in the oven for 40m
+6) Enjoy
 
 Soup Recipe:
 1)
