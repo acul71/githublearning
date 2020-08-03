@@ -18,4 +18,6 @@ Soup Recipe:
 
 
 Meat dish:
-1)
+1) Cook Meat
+2) Add salt
+3) Serve with a green salad on side
