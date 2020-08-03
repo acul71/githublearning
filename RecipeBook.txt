@@ -5,10 +5,13 @@ Cake Recipe:
 2) Add Flower
 3) Add Chocolate
 4) Mix
-5) Put in the oven for 40m
-6) Enjoy
+5) Put in oven for 50m
+6) Take it out and rest for 1h
+7) Enjoy 
 
 Soup Recipe:
+1)
+
 
 Meat dish:
 1)
